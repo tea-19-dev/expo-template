@@ -1,0 +1,9 @@
+node_modules
+.expo
+.agents
+.claude
+.github
+build
+dist
+package-lock.json
+example
