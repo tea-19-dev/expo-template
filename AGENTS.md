@@ -22,6 +22,8 @@
 ## Setup / Build / Test
 
 - `README.md` を参照
+- 作業完了前のチェックは `npm run fix` を実行すればOK（lint + format を一括実行）
+- Expo の native module 追加・更新時は `npm add` ではなく `npx expo install <package>` を使う
 
 ## Documentation Map
 
