@@ -14,8 +14,7 @@
 ## 確認事項
 
 - lint が通ること
-  - [ ] docker compose run --rm api rubocop -A
-  - [ ] cd front && npm run lint:fix
+  - [ ] npm run fix
 - 確認手順を記載
 
 ## 備考・相談・懸念点など
