@@ -9,7 +9,11 @@
     "userInterfaceStyle": "automatic",
     "ios": {
       "bundleIdentifier": "com.expo.template",
-      "icon": "./assets/expo.icon"
+      "icon": "./assets/expo.icon",
+      "infoPlist": {
+        "CFBundleDevelopmentRegion": "ja",
+        "CFBundleLocalizations": ["ja", "en"]
+      }
     },
     "android": {
       "adaptiveIcon": {
